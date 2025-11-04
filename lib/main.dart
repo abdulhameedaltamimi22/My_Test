@@ -82,7 +82,7 @@ class CvPage extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: const [
                     Text('Phone:', style: TextStyle(color: Colors.white)),
-                    Text('772572103', style: TextStyle(color: Colors.white)),
+                    Text('774172011', style: TextStyle(color: Colors.white)),
                   ],
                 ),
                 const Divider(color: Colors.white54, height: 30),
